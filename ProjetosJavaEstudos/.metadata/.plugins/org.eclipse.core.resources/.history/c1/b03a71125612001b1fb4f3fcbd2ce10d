@@ -1,0 +1,10 @@
+
+public class testeReferencia {
+
+	public static void main(String[] args) {
+		Gerente g1 = new Gerente();
+		
+
+	}
+
+}

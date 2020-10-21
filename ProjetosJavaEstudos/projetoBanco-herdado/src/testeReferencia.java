@@ -7,15 +7,14 @@ public class testeReferencia {
 		g1.setNome("Thales Batista");
 	    g1.setSalario(5000.0);
 	    
-	    Funcionario f = new Funcionario();
-	    f.setSalario(2000.0);
+	    
 	    
 	    editorDeVideo ev = new editorDeVideo();
 	    ev.setSalario(2500.0);
 	    controleBonificacao controle = new controleBonificacao();
 	    
-	    //controle.registra(g1);
-	    //controle.registra(f);
+	    controle.registra(g1);
+	    
 	    controle.registra(ev);
 	    
 	    System.out.println(controle.getSoma());

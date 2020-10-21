@@ -10,6 +10,6 @@
     <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="Gerente"/>
-    <fullyQualifiedTypeName name="ContaCorrente"/>
     <fullyQualifiedTypeName name="com.sun.tools.classfile.ConstantPool.CPInfo"/>
+    <fullyQualifiedTypeName name="ContaCorrente"/>
 </qualifiedTypeNameHistroy>

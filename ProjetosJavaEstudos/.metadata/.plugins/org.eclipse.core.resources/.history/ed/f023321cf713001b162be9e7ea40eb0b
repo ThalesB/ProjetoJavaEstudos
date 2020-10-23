@@ -1,0 +1,13 @@
+package exerciciosJava;
+
+public class Program {
+	
+	public static int countWords(String s){
+		
+		int contaString = s.length();
+		System.out.println("a contagem deu: "+contaString);
+		return contaString;
+		
+	}
+
+}

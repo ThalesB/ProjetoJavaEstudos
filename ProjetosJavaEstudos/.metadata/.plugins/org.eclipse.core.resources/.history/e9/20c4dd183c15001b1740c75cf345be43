@@ -1,0 +1,17 @@
+
+public class Cliente implements Autenticavel{
+     private senha;
+	
+	@Override
+	public void setSenha(int senha) {
+		
+		
+	}
+	
+	@Override
+	public boolean autentica(int senha) {
+		
+		return false;
+	}
+
+}

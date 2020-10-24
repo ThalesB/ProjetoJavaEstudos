@@ -12,4 +12,5 @@
     <fullyQualifiedTypeName name="Gerente"/>
     <fullyQualifiedTypeName name="com.sun.tools.classfile.ConstantPool.CPInfo"/>
     <fullyQualifiedTypeName name="ContaCorrente"/>
+    <fullyQualifiedTypeName name="SistemaInterno"/>
 </qualifiedTypeNameHistroy>

@@ -26,6 +26,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\CIRILÃ0\Desktop\ENG COMP THE LAST\DEV FULL STACK\JAVA\Estudo\forum"/>
 			<item value="E:\Download\projeto-inicial"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -38,6 +39,14 @@
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>

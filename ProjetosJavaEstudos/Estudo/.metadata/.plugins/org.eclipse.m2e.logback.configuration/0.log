@@ -1618,3 +1618,4 @@ org.eclipse.core.runtime.CoreException: Launch configuration SpringApplication r
 2020-12-30 09:33:53,795 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-12-30 09:33:53,796 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-12-30 09:33:53,796 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\CIRILÃ0\Desktop\ENG COMP THE LAST\DEV FULL STACK\JAVA\Estudo\forum\src\test\resources
+2021-01-28 20:35:50,162 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
